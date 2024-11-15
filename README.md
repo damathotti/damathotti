@@ -1,4 +1,4 @@
-[![MasterHead](https://www.primeone.global/wp-content/uploads/2022/02/Data-Analytics-.gif)]
+![MasterHead](https://github.com/damathotti/Trailversion/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.gif)
 
 <h1 align="center">Hi 👋, I'm Annamaiah</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
